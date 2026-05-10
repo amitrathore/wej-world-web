@@ -52,7 +52,7 @@ export const PROJECTS = {
       name: "The Js",
       status: "live" as const,
       description: "A co-owned music ecosystem with AI avatars, on-chain economics, and collaborative IP development. The first wave is live with community, worldbuilding, and creator participation.",
-      link: "https://app.jointhejs.com/ui",
+      link: "https://www.jointhejs.com",
       features: ["AI Avatars", "On-chain Economics", "Collaborative IP"],
     },
     {
@@ -88,7 +88,7 @@ export const FOOTER = {
       links: [
         { label: "Features", href: "/features" },
         { label: "Pricing", href: "/pricing" },
-        { label: "The Js", href: "https://app.jointhejs.com/ui" },
+        { label: "The Js", href: "https://www.jointhejs.com" },
         { label: "Platform", href: "https://platform.wej.world" },
       ],
     },
