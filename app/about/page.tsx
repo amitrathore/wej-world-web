@@ -83,7 +83,7 @@ export default function AboutPage() {
                     {project.description}
                   </CardDescription>
                   <Link
-                    href="https://app.jointhejs.com/ui"
+                    href="https://www.jointhejs.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block mt-4 text-primary hover:underline font-medium"
