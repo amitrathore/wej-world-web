@@ -12,12 +12,12 @@ export function Hero() {
       <div className="relative container py-24 md:py-32 lg:py-40">
         <div className="mx-auto max-w-4xl text-center space-y-8">
           {/* Headline */}
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight dark:text-white">
             {HERO.headline}
           </h1>
 
           {/* Subheadline */}
-          <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
+          <p className="text-lg md:text-xl text-muted-foreground dark:text-white/70 max-w-3xl mx-auto">
             {HERO.subheadline}
           </p>
 
