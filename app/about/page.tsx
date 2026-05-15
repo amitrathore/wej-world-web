@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Empowering musicians at the intersection of music and AI",
+  description: "Building the AI-native music label for AI musicians, AI bands, and participatory music worlds.",
 };
 
 export default function AboutPage() {
@@ -15,7 +15,7 @@ export default function AboutPage() {
     <div className="py-24 md:py-32">
       <div className="container max-w-4xl">
         {/* Mission */}
-        <section className="mb-20">
+        <section className="mb-20" id="mission">
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-6">
             {ABOUT_PAGE.mission.title}
           </h1>

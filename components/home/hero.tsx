@@ -11,6 +11,10 @@ export function Hero() {
       {/* Content */}
       <div className="relative container py-24 md:py-32 lg:py-40">
         <div className="mx-auto max-w-4xl text-center space-y-8">
+          <p className="text-sm font-semibold uppercase tracking-[0.2em] text-muted-foreground dark:text-white/60">
+            {HERO.eyebrow}
+          </p>
+
           {/* Headline */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight dark:text-white">
             {HERO.headline}

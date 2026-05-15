@@ -8,10 +8,10 @@ export function FeaturesOverview() {
         {/* Section Header */}
         <div className="mx-auto max-w-3xl text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-4">
-            Four Pillars of Ownership
+            What an AI-Native Label Has to Do
           </h2>
           <p className="text-lg text-muted-foreground">
-            Everything you need to distribute music and build AI ventures on a platform you control
+            AI bands need more than a generator. They need identity, provenance, release operations, and a community that can help the world grow.
           </p>
         </div>
 

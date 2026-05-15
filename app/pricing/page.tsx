@@ -9,7 +9,8 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Pricing",
-  description: "Pricing plans for artists, labels, and AI builders",
+  description:
+    "Pricing paths for launching AI musicians, AI bands, AI music worlds, and partner integrations with WeJ World.",
 };
 
 export default function PricingPage() {

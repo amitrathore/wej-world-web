@@ -4,7 +4,8 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Features",
-  description: "Everything you need to own your music future - for musicians and AI builders",
+  description:
+    "Features for developing AI musicians, AI bands, rights provenance, label-grade releases, and participatory music worlds.",
 };
 
 export default function FeaturesPage() {
