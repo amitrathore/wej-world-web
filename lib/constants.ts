@@ -56,6 +56,12 @@ export const PROJECTS = {
       features: ["AI Avatars", "On-chain Economics", "Collaborative IP"],
     },
     {
+      name: "Emotion Engines",
+      status: "coming-soon" as const,
+      description: "AI-powered emotion reading technology for live performances. Real-time audience sentiment analysis that lets performers adapt on the fly.",
+      features: ["Live Emotion Reading", "Real-Time Sentiment", "Performance Adaptation"],
+    },
+    {
       name: "genAI Emotion Engine",
       status: "coming-soon" as const,
       description: "Early-stage AI tool exploring emotional intelligence in music creation. Helping artists infuse authentic emotion into AI-generated compositions.",
