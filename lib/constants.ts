@@ -57,6 +57,12 @@ export const PROJECTS = {
       features: ["AI Band", "Worldbuilding", "Collaborative IP"],
     },
     {
+      name: "Emotion Engines",
+      status: "coming-soon" as const,
+      description: "AI-powered emotion reading technology for live performances. Real-time audience sentiment analysis that lets performers adapt on the fly.",
+      features: ["Live Emotion Reading", "Real-Time Sentiment", "Performance Adaptation"],
+    },
+    {
       name: "AI Act Incubator",
       status: "coming-soon" as const,
       description: "A guided path for producers, visual artists, writers, and communities to launch AI musicians and AI bands with rights clarity and release strategy.",
