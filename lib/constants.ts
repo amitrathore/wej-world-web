@@ -2,7 +2,7 @@
 
 export const SITE = {
   name: "wej.world",
-  tagline: "The Record Label for the Age of AI Bands",
+  tagline: "The Record Label for AI Bands",
   description: "An AI-native music label for AI musicians, AI bands, and the creators and communities behind them.",
   url: "https://wej.world",
   platformUrl: "https://platform.wej.world",
@@ -10,7 +10,7 @@ export const SITE = {
 
 export const HERO = {
   eyebrow: "AI-native music label",
-  headline: "The Record Label for the Age of AI Bands",
+  headline: "The Record Label for AI Bands",
   subheadline: "WeJ World develops AI musicians, virtual bands, and participatory music worlds with transparent rights, label-grade releases, and community-powered ownership.",
   primaryCTA: {
     label: "Launch an AI Act",
