@@ -63,16 +63,12 @@ export const PROJECTS = {
       features: ["Live Emotion Reading", "Real-Time Sentiment", "Performance Adaptation"],
     },
     {
-      name: "AI Act Incubator",
+      name: "Band of Avatars",
       status: "coming-soon" as const,
       description: "A guided path for producers, visual artists, writers, and communities to launch AI musicians and AI bands with rights clarity and release strategy.",
       features: ["Artist Registry", "Release Pipeline", "Revenue Splits"],
     },
   ],
-  cta: {
-    label: "Submit an AI Act",
-    href: "https://platform.wej.world/submit",
-  },
 };
 
 export const NAVIGATION = {

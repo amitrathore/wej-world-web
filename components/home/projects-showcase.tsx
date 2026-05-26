@@ -4,6 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { PROJECTS } from "@/lib/constants";
 
+
 export function ProjectsShowcase() {
   return (
     <section className="py-24 md:py-32 bg-muted/30">
@@ -57,14 +58,7 @@ export function ProjectsShowcase() {
           ))}
         </div>
 
-        {/* CTA */}
-        <div className="text-center mt-12">
-          <Button asChild size="lg">
-            <Link href={PROJECTS.cta.href}>
-              {PROJECTS.cta.label}
-            </Link>
-          </Button>
-        </div>
+
       </div>
     </section>
   );
