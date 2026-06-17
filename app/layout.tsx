@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: `%s | ${SITE.name}`,
   },
   description: SITE.description,
-  keywords: ["music distribution", "AI music", "musicians", "DJs", "music label", "blockchain music", "federated music"],
+  keywords: ["AI bands", "AI music marketplace", "AI musicians", "AI record label", "virtual bands", "music IP", "participatory music worlds"],
   authors: [{ name: "wej.world" }],
   openGraph: {
     type: "website",
