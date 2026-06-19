@@ -45,7 +45,7 @@ export function ProjectsShowcase() {
                 </div>
               </CardContent>
 
-              {project.status === "live" && project.link && (
+              {project.link && (
                 <CardFooter>
                   <Button asChild variant="outline" className="w-full">
                     <Link href={project.link} target="_blank" rel="noopener noreferrer">

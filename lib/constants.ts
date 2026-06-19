@@ -66,6 +66,7 @@ export const PROJECTS = {
       name: "Band of Avatars",
       status: "coming-soon" as const,
       description: "A guided path for producers, visual artists, writers, and communities to launch AI musicians and AI bands with rights clarity and release strategy.",
+      link: "https://BandOfAvatar.com",
       features: ["Artist Registry", "Release Pipeline", "Revenue Splits"],
     },
   ],
